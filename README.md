@@ -5,4 +5,4 @@
 [![Contato3](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1135358577117237329)
 
 
-![Miguel Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=santosmgs&show_icons=true&theme=tokyonight)
+![Miguel Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=santosmgs&show_icons=true&theme=transparent)
